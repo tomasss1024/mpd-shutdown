@@ -4,3 +4,5 @@ Script is checking current playing song and if there is shutdown in Title, it re
 Run the script from /etc/rc.local or from commandline:
 
 root@mpdhost # mpd-shutdown &
+
+You can find other scripts on http://mpd.wikia.com/wiki/Hacks
